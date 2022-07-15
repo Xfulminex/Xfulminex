@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Xfulminex
+- 👀 I’m interested in ... Java
+- 🌱 I’m currently learning ... Java... once again
+- 💞️ I’m looking to collaborate on ... Java... again...
